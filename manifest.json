@@ -1,7 +1,7 @@
 {
-  "name": "Levantamento de Estoque",
-  "short_name": "Levantamento Estoque",
-  "start_url": "https://andrefguirro.github.io/Levantamento_Estoque_Vendedores/index.html",
+  "name": "Apoio de Vendas",
+  "short_name": "Apoio de Vendas",
+  "start_url": "https://andrefguirro.github.io/Apoio_vendas/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
