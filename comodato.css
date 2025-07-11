@@ -5,6 +5,14 @@
     padding: 10px;
 }
 
+.navbar-nav .nav-link {
+    font-size: 18px; /* Aumenta o tamanho da fonte */
+    font-weight: bold; /* Deixa a letra mais grossa */
+    color: #ffffff; /* Deixa o texto branco para contraste */
+    text-transform: uppercase; /* Deixa as letras todas maiúsculas (opcional) */
+    color: #ffffff !important;
+  }
+  
 /* Estilo para o botão "X" */
 #clear-search {
     display: none;
